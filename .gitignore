@@ -1,3 +1,4 @@
 node_modules
-word-truncator-darwin-x64
+/out/electron-footprint-darwin-x64
+electron-footprint-darwin-x64
 /out

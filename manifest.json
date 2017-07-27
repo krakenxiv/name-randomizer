@@ -1,8 +1,8 @@
 {
   "manifest_version": 2,
-  "name": "Shot Clock",
+  "name": "Electron Footprint",
   "short_name":"Word count",
-  "description": "This extension adds a clock to the upper corner of the browser to help developers keep track of time.",
+  "description": "Creates new apps that are ready to be packaged",
   "version": "1.0",
   "icons":
   {

@@ -1,4 +1,4 @@
-# Word Truncator 5000
+# Electron Footprint app
 
 ## To Use
 
