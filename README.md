@@ -8,7 +8,7 @@ To clone and run this repository you'll need [Git](https://git-scm.com) and [Nod
 # Clone this repository
 git clone git@github.com:krakenxiv/electron-footprint.git
 # Go into the repository
-cd word-trunctor
+cd electron-footprint
 # Install dependencies
 npm install
 # Install the Packager
